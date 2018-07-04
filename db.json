@@ -2,11 +2,9 @@
 	"projects": [
 	  {
 		"docType": "well_header_legal",
-		"_id": "5b37d5fc75b352622cf2ecc6",
-		"_rev": "3-6a011ab3-e06c-4978-af91-ebea388d7a7b",
 		"type1": "add/new/modified",
 		"projectNumber": "784509-PERMIAN",
-		"projectId": "",
+		"projectId": "784509",
 		"isActive": false,
 		"isApprovedByPM": false,
 		"wellName": "ESSE 10",
@@ -95,11 +93,9 @@
 	  },
 	  {
 		"docType": "well_header_legal",
-		"_id": "5b37d5fc70c961ad146ac040",
-		"_rev": "7-e81b1fd6-60f6-4d5e-919d-ee3d1e1886d4",
 		"type1": "add/new/modified",
 		"projectNumber": "416076-TX",
-		"projectId": "",
+		"projectId": "416076",
 		"isActive": true,
 		"isApprovedByPM": true,
 		"wellName": "SUNT 72",
@@ -188,11 +184,9 @@
 	  },
 	  {
 		"docType": "well_header_legal",
-		"_id": "5b37d5fce1280415dd48c25b",
-		"_rev": "7-25ed855b-6d6c-43e1-85f3-387c87f305dd",
 		"type1": "add/new/modified",
 		"projectNumber": "571772-PERMIAN",
-		"projectId": "",
+		"projectId": "571772",
 		"isActive": false,
 		"isApprovedByPM": true,
 		"wellName": "IN 48",
