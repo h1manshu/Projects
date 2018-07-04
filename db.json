@@ -2,7 +2,6 @@
 	"projects": [
 	  {
 		"_id":"",
-		"_rev":"",
 		"docType": "well_header_legal",
 		"type1": "add/new/modified",
 		"projectNumber": "7845091-PERMIAN",
@@ -95,7 +94,6 @@
 	  },
 	  {
 		"_id":"",
-		"_rev":"",
 		"docType": "well_header_legal",
 		"type1": "add/new/modified",
 		"projectNumber": "4160762-TX",
@@ -188,7 +186,6 @@
 	  },
 	  {
 		"_id":"",
-		"_rev":"",
 		"docType": "well_header_legal",
 		"type1": "add/new/modified",
 		"projectNumber": "5717723-PERMIAN",
