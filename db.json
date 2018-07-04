@@ -3,8 +3,8 @@
 	  {
 		"docType": "well_header_legal",
 		"type1": "add/new/modified",
-		"projectNumber": "784509-PERMIAN",
-		"projectId": "784509",
+		"projectNumber": "7845091-PERMIAN",
+		"projectId": "7845091",
 		"isActive": false,
 		"isApprovedByPM": false,
 		"wellName": "ESSE 10",
@@ -94,8 +94,8 @@
 	  {
 		"docType": "well_header_legal",
 		"type1": "add/new/modified",
-		"projectNumber": "416076-TX",
-		"projectId": "416076",
+		"projectNumber": "4160762-TX",
+		"projectId": "4160762",
 		"isActive": true,
 		"isApprovedByPM": true,
 		"wellName": "SUNT 72",
@@ -185,8 +185,8 @@
 	  {
 		"docType": "well_header_legal",
 		"type1": "add/new/modified",
-		"projectNumber": "571772-PERMIAN",
-		"projectId": "571772",
+		"projectNumber": "5717723-PERMIAN",
+		"projectId": "5717723",
 		"isActive": false,
 		"isApprovedByPM": true,
 		"wellName": "IN 48",
