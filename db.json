@@ -1,417 +1,273 @@
-{
-	"projects": [
-	  {
-		"_id":"",
-		"docType": "well_header_legal",
-		"type1": "add/new/modified",
-		"projectNumber": "7845091-PERMIAN",
-		"projectId": "7845091",
-		"isActive": false,
-		"isApprovedByPM": false,
-		"wellName": "ESSE 10",
-		"wellType": "",
-		"fluidSystem": "",
-		"fluidType": "",
-		"basin": "",
-		"apiNumber": "",
-		"field": "",
-		"block": "",
-		"rigType": "Jackup",
-		"lease": "",
-		"spudDate": "Thu Jan 26 1995 23:42:12 GMT+0000 (UTC)",
-		"section": "",
-		"township": "",
-		"range1": "",
-		"county": "",
-		"state": "",
-		"country": "",
-		"rigName": "",
-		"rigAddress": "",
-		"latitude": "-49.100474",
-		"longitude": "-112.364067",
-		"completionDate": "Fri Jan 08 1971 21:42:53 GMT+0000 (UTC)",
-		"surfaceLocation": "",
-		"targetLocation": "",
-		"operator": "",
-		"operatorId": "",
-		"contractor": "",
-		"businessUnit": "",
-		"primaryWarehouse": "",
-		"priceList": [
-		  {
-			"name": "pricelist1",
-			"type": "customer/project",
-			"discount": 0
-		  },
-		  {
-			"name": "pricelist2",
-			"type": "retail",
-			"discount": 0.3
-		  }
-		],
-		"keyMembers": [
-		  {
-			"fullName": "Carr",
-			"email": "anim@newpark.com",
-			"role": "Project Manager"
-		  },
-		  {
-			"fullName": "Angelique",
-			"email": "sunt@newpark.com",
-			"role": "Project Coordinator"
-		  },
-		  {
-			"fullName": "Harriett",
-			"email": "in@newpark.com",
-			"role": "Project Manager"
-		  },
-		  {
-			"fullName": "Clemons",
-			"email": "fugiat@newpark.com",
-			"role": "Project Manager"
-		  },
-		  {
-			"fullName": "Gilbert",
-			"email": "magna@newpark.com",
-			"role": "SCE Engineer"
-		  },
-		  {
-			"fullName": "Shana",
-			"email": "voluptate@newpark.com",
-			"role": "Project Coordinator"
-		  },
-		  {
-			"fullName": "Jillian",
-			"email": "cillum@newpark.com",
-			"role": "Project Coordinator"
-		  },
-		  {
-			"fullName": "Loraine",
-			"email": "aliqua@newpark.com",
-			"role": "Project Manager"
-		  }
-		]
-	  },
-	  {
-		"_id":"",
-		"docType": "well_header_legal",
-		"type1": "add/new/modified",
-		"projectNumber": "4160762-TX",
-		"projectId": "4160762",
-		"isActive": true,
-		"isApprovedByPM": true,
-		"wellName": "SUNT 72",
-		"wellType": "",
-		"fluidSystem": "",
-		"fluidType": "",
-		"basin": "",
-		"apiNumber": "",
-		"field": "",
-		"block": "",
-		"rigType": "Drillship",
-		"lease": "",
-		"spudDate": "Sun Apr 13 2014 07:29:58 GMT+0000 (UTC)",
-		"section": "",
-		"township": "",
-		"range1": "",
-		"county": "",
-		"state": "",
-		"country": "",
-		"rigName": "",
-		"rigAddress": "",
-		"latitude": "-73.800162",
-		"longitude": "-31.690785",
-		"completionDate": "Mon Mar 18 1974 10:08:40 GMT+0000 (UTC)",
-		"surfaceLocation": "",
-		"targetLocation": "",
-		"operator": "",
-		"operatorId": "",
-		"contractor": "",
-		"businessUnit": "",
-		"primaryWarehouse": "",
-		"priceList": [
-		  {
-			"name": "pricelist1",
-			"type": "customer/project",
-			"discount": 0
-		  },
-		  {
-			"name": "pricelist2",
-			"type": "retail",
-			"discount": 0.3
-		  }
-		],
-		"keyMembers": [
-		  {
-			"fullName": "Tisha",
-			"email": "nostrud@newpark.com",
-			"role": "SCE Engineer"
-		  },
-		  {
-			"fullName": "Blanca",
-			"email": "Lorem@newpark.com",
-			"role": "SCE Engineer"
-		  },
-		  {
-			"fullName": "Shelia",
-			"email": "quis@newpark.com",
-			"role": "Project Manager"
-		  },
-		  {
-			"fullName": "David",
-			"email": "cillum@newpark.com",
-			"role": "Project Manager"
-		  },
-		  {
-			"fullName": "Guzman",
-			"email": "consectetur@newpark.com",
-			"role": "Project Coordinator"
-		  },
-		  {
-			"fullName": "Sharron",
-			"email": "cillum@newpark.com",
-			"role": "Project Manager"
-		  },
-		  {
-			"fullName": "Johnston",
-			"email": "exercitation@newpark.com",
-			"role": "Project Coordinator"
-		  },
-		  {
-			"fullName": "Angelica",
-			"email": "velit@newpark.com",
-			"role": "Project Manager"
-		  }
-		]
-	  },
-	  {
-		"_id":"",
-		"docType": "well_header_legal",
-		"type1": "add/new/modified",
-		"projectNumber": "5717723-PERMIAN",
-		"projectId": "5717723",
-		"isActive": false,
-		"isApprovedByPM": true,
-		"wellName": "IN 48",
-		"wellType": "",
-		"fluidSystem": "",
-		"fluidType": "",
-		"basin": "",
-		"apiNumber": "",
-		"field": "",
-		"block": "",
-		"rigType": "Platform",
-		"lease": "",
-		"spudDate": "Fri Apr 17 2009 23:53:48 GMT+0000 (UTC)",
-		"section": "",
-		"township": "",
-		"range1": "",
-		"county": "",
-		"state": "",
-		"country": "",
-		"rigName": "",
-		"rigAddress": "",
-		"latitude": "-14.90259",
-		"longitude": "86.044519",
-		"completionDate": "Fri Dec 15 2006 06:25:47 GMT+0000 (UTC)",
-		"surfaceLocation": "",
-		"targetLocation": "",
-		"operator": "",
-		"operatorId": "",
-		"contractor": "",
-		"businessUnit": "",
-		"primaryWarehouse": "",
-		"priceList": [
-		  {
-			"name": "pricelist1",
-			"type": "customer/project",
-			"discount": 0
-		  },
-		  {
-			"name": "pricelist2",
-			"type": "retail",
-			"discount": 0.3
-		  }
-		],
-		"keyMembers": [
-		  {
-			"fullName": "Vera",
-			"email": "sint@newpark.com",
-			"role": "Project Manager"
-		  },
-		  {
-			"fullName": "Yang",
-			"email": "esse@newpark.com",
-			"role": "SCE Engineer"
-		  },
-		  {
-			"fullName": "Claudine",
-			"email": "minim@newpark.com",
-			"role": "Project Manager"
-		  }
-		]
-	  }
-	],
-	"Casing":[
-	  {
-		"_id": "5b36892deb597fc3d2c9741e",
-		"_rev": "5-73edeec7-8543-46e3-8188-b7d9bc9fa175",
-		"docType": "undefined",
-		"type": "Casing",
-		"pipeType": "Drill Pipe",
-		"intervalType": "Intermediate 1",
-		"outerDiameter": "13.4",
-		"description": "ad excepteur et labore ea",
-		"nominalSize": "22.76",
-		"pipeId": "28.69",
-		"nominalWt": 33,
-		"adjustWt": "10.38",
-		"grade": "24.9",
-		"yield": "20.29",
-		"upset": "veniam",
-		"connection": "proident",
-		"toolJointOD": "17.97",
-		"toolJointID": "12.67"
-	  },
-	  {
-		"_id": "5b36892d448d44d8b5316fbc",
-		"_rev": "4-dba13a59-dd54-4fc9-9c48-46b4c52b2008",
-		"docType": "undefined",
-		"type": "Casing",
-		"pipeType": "Drill Collar",
-		"intervalType": "Conductor",
-		"outerDiameter": "23.94",
-		"description": "dolor officia esse fugiat nostrud",
-		"nominalSize": "19.8",
-		"pipeId": "38.75",
-		"nominalWt": "35.92",
-		"adjustWt": "28.02",
-		"grade": "11.44",
-		"yield": "39.83",
-		"upset": "consequat",
-		"connection": "id",
-		"toolJointOD": "36.66",
-		"toolJointID": "39.94"
-	  },
-	  {
-		"_id": "5b36892db8ac8cbbc7ec4d7a",
-		"_rev": "9-a56bf6ac-6e5a-47df-8fc3-edf630bc69aa",
-		"docType": "undefined",
-		"type": "Drill String",
-		"pipeType": "Drill Pipe",
-		"intervalType": "Conductor",
-		"outerDiameter": "10.23",
-		"description": "sit esse minim aliqua aute",
-		"nominalSize": "36.4",
-		"pipeId": "37.71",
-		"nominalWt": "24.92",
-		"adjustWt": "37.46",
-		"grade": "11.64",
-		"yield": "29.98",
-		"upset": "eu",
-		"connection": "minim",
-		"toolJointOD": "27.24",
-		"toolJointID": "21.4"
-	  },
-	  {
-		"_id": "5b36892db9f99fb029e2a67a",
-		"_rev": "5-4eaab6ac-c4e8-4eec-b6ff-962c23c9ac78",
-		"docType": "undefined",
-		"type": "Drill String",
-		"pipeType": "Drill Collar",
-		"intervalType": "Curve Build",
-		"outerDiameter": "21.15",
-		"description": "fugiat quis minim dolor ipsum",
-		"nominalSize": "34.51",
-		"pipeId": "36.65",
-		"nominalWt": "36.29",
-		"adjustWt": "35.8",
-		"grade": "16.8",
-		"yield": "16.89",
-		"upset": "ad",
-		"connection": "anim",
-		"toolJointOD": "13.06",
-		"toolJointID": "20.39"
-	  },
-	  {
-		"_id": "5b36892d69ee5d9508825be2",
-		"_rev": "1-cfb1b77d-e453-404e-b265-5468425ee8c9",
-		"docType": "undefined",
-		"type": "Casing",
-		"pipeType": "Drill Collar",
-		"intervalType": "Intermediate 1",
-		"outerDiameter": "21.15",
-		"description": "officia nulla deserunt commodo nulla",
-		"nominalSize": "39.12",
-		"pipeId": "26.81",
-		"nominalWt": "12.63",
-		"adjustWt": "22.21",
-		"grade": "38.68",
-		"yield": "38.93",
-		"upset": "et",
-		"connection": "excepteur",
-		"toolJointOD": "29.38",
-		"toolJointID": "28.19"
-	  },
-	  {
-		"_id": "5b36892d6ab89008d217ee6f",
-		"_rev": "3-fdd5992b-24a3-4ac4-a0dd-d3ed1c7fd839",
-		"docType": "undefined",
-		"type": "Drill String",
-		"pipeType": "Drill Collar",
-		"intervalType": "Conductor",
-		"outerDiameter": "33.86",
-		"description": "commodo eiusmod amet labore ea",
-		"nominalSize": "29.81",
-		"pipeId": "30.21",
-		"nominalWt": "25.99",
-		"adjustWt": "29.63",
-		"grade": "12.2",
-		"yield": "30.65",
-		"upset": "qui",
-		"connection": "culpa",
-		"toolJointOD": "36.73",
-		"toolJointID": "13.25"
-	  },
-	  {
-		"_id": "5b36892de8c94fbf1741a536",
-		"_rev": "5-6e510dbf-b32c-4497-b962-dfe842f13106",
-		"docType": "undefined",
-		"type": "Drill String",
-		"pipeType": "Drill Pipe",
-		"intervalType": "Curve Build",
-		"outerDiameter": "13.12",
-		"description": "ad magna labore aliquip Lorem",
-		"nominalSize": "14.45",
-		"pipeId": "22.5",
-		"nominalWt": "28.02",
-		"adjustWt": "30.08",
-		"grade": "30.03",
-		"yield": "27.29",
-		"upset": "consequat",
-		"connection": "occaecat",
-		"toolJointOD": "12.92",
-		"toolJointID": "34.79"
-	  },
-	  {
-		"_id": "5b36892dec58f2d29f6902cd",
-		"_rev": "10-a4c42350-448b-465a-b254-4d1666e1d7c3",
-		"docType": "undefined",
-		"type": "Drill String",
-		"pipeType": "Drill Pipe",
-		"intervalType": "Intermediate 1",
-		"outerDiameter": "28.36",
-		"description": "reprehenderit irure minim cillum commodo",
-		"nominalSize": "18.07",
-		"pipeId": "33.03",
-		"nominalWt": "24.29",
-		"adjustWt": "34.63",
-		"grade": "19.91",
-		"yield": "22.98",
-		"upset": "anim",
-		"connection": "magna",
-		"toolJointOD": "14.75",
-		"toolJointID": "28.85"
-	  }
-	]
-}
+[
+  {
+    "priceLists": [
+      {
+        "priceListId": 4516698,
+        "name": "EB FIN PL 1 - 436",
+        "type": "Project",
+        "discount": 0
+      },
+      {
+        "priceListId": 2108012,
+        "name": "9/1/2013 TXGC RETAIL PRICELIST",
+        "type": "Retail",
+        "discount": 46
+      }
+    ],
+    "keyMembers": [
+      {
+        "fullName": "Chandra, Himanshu",
+        "email": "hchandra@newpark.com",
+        "startDate": "2019-04-01T00:00:00-05:00",
+        "role": "Mud Engineer"
+      },
+      {
+        "fullName": "Deng, Mei",
+        "email": "MDeng@newpark.com",
+        "startDate": "2019-04-01T00:00:00-05:00",
+        "role": "Project Administrator"
+      },
+      {
+        "fullName": "Stearns, Michael Robert",
+        "email": "mstearns@newpark.com",
+        "startDate": "2019-04-01T00:00:00-05:00",
+        "role": "Project Manager"
+      }
+    ],
+    "type": "Project",
+    "id": "37044-SOUTHTX",
+    "changeType": "CHANGE",
+    "projectId": 3560075,
+    "projectNumber": "37044-SOUTHTX",
+    "projectStatus": "Approved",
+    "wellName": "37044 EB FIN T4",
+    "wellType": "Horizontal",
+    "fluidSystem": "Water Base",
+    "basin": "Not Applicable",
+    "apiNumber": "1703126633",
+    "fieldName": "GRAND CANE",
+    "block": "NA",
+    "afe": "A001001",
+    "projectStartDate": "2019-04-01T00:00:00-05:00",
+    "projectCompletionDate": "2020-04-26T00:00:00-05:00",
+    "spudDate": "2019-04-26T00:00:00-05:00",
+    "completionDate": "2020-04-26T00:00:00-05:00",
+    "section": "SEC 02 - T12N - R15W",
+    "survey": "NA",
+    "rigName": "EB FIN T4",
+    "address1": "37044 EB FIN T4",
+    "address2": "REGISTER 20H #1 ALT",
+    "city": "LOGANSPORT",
+    "county": "DE SOTO",
+    "state": "TX",
+    "country": "US",
+    "latitude": "32.0194",
+    "longitude": "-93.9328",
+    "operatingUnitId": 342,
+    "operatorName": "AETHON ENERGY OPERATING LLC",
+    "operatorId": 657332,
+    "businessUnit": "SOUTHTX",
+    "businessLine": "Drilling Fluids",
+    "primaryWarehouseId": 419,
+    "primaryWarehouse": "NDF Fourchon LA - 1344"
+  },
+  {
+    "priceLists": [
+      {
+        "priceListId": 4624842,
+        "name": "RANGE RESOURCES STRAVAGGI B2 12.17.18",
+        "type": "Project",
+        "discount": 0
+      },
+      {
+        "priceListId": 3613512,
+        "name": "RETAIL PRICE LIST NE 06.12.17",
+        "type": "Retail",
+        "discount": 35
+      }
+    ],
+    "keyMembers": [
+      {
+        "fullName": "Chandra, Himanshu",
+        "email": "hchandra@newpark.com",
+        "startDate": "2019-04-24T00:00:00-05:00",
+        "role": "Mud Engineer"
+      },
+      {
+        "fullName": "Stearns, Michael Robert",
+        "email": "mstearns@newpark.com",
+        "startDate": "2019-04-24T00:00:00-05:00",
+        "role": "Project Manager"
+      }
+    ],
+    "type": "Project",
+    "id": "37029-EASTTX",
+    "changeType": "CHANGE",
+    "projectId": 3560060,
+    "projectNumber": "37029-EASTTX",
+    "projectStatus": "Approved",
+    "wellName": "STRAVAGGI B2 TAX5",
+    "wellType": "Horizontal",
+    "fluidSystem": "Water Base",
+    "basin": "Not Applicable",
+    "apiNumber": "N/A",
+    "fieldName": "N/A",
+    "block": "N/A",
+    "afe": "N/A",
+    "customerPoNumber": "BWO 2017-05-1212",
+    "projectStartDate": "2019-04-24T00:00:00-05:00",
+    "projectCompletionDate": "2020-04-24T00:00:00-05:00",
+    "spudDate": "2019-04-24T00:00:00-05:00",
+    "completionDate": "2020-04-24T00:00:00-05:00",
+    "section": "N/A",
+    "survey": "N/A",
+    "address1": "STRAVAGGI B2",
+    "city": "NORWICH",
+    "county": "MUSKINGUM",
+    "state": "OH",
+    "country": "US",
+    "latitude": "39.9785",
+    "longitude": "-81.8106",
+    "operatingUnitId": 342,
+    "operatorName": "RANGE RESOURCES",
+    "operatorId": 4542,
+    "businessUnit": "EASTTX",
+    "businessLine": "Drilling Fluids",
+    "primaryWarehouseId": 525,
+    "primaryWarehouse": "NDF Norwich OH - 3901"
+  },
+  {
+    "priceLists": [
+      {
+        "priceListId": 4630683,
+        "name": "KAISER LOVING TOWNSITE 2021 WC #002H 12.18.18",
+        "type": "Project",
+        "discount": 0
+      },
+      {
+        "priceListId": 2992489,
+        "name": "WTX RETAIL PRICE LIST 03.13.17",
+        "type": "Retail",
+        "discount": 40
+      }
+    ],
+    "keyMembers": [
+      {
+        "fullName": "Chandra, Himanshu",
+        "email": "hchandra@newpark.com",
+        "startDate": "2019-01-15T00:00:00-06:00",
+        "role": "Mud Engineer"
+      },
+      {
+        "fullName": "Deng, Mei",
+        "email": "MDeng@newpark.com",
+        "startDate": "2019-01-15T00:00:00-06:00",
+        "role": "Project Administrator"
+      },
+      {
+        "fullName": "Winbush, Lesia Gail",
+        "email": "lwinbush@newpark.com",
+        "startDate": "2019-01-15T00:00:00-06:00",
+        "role": "Project Manager"
+      }
+    ],
+    "type": "Project",
+    "id": "36922-PERMIAN",
+    "changeType": "CHANGE",
+    "projectId": 3458039,
+    "projectNumber": "36922-PERMIAN",
+    "projectStatus": "Approved",
+    "wellName": "EBLOVING TOWNSITE 2021 WC #002H",
+    "wellType": "Horizontal",
+    "fluidSystem": "Oil Base",
+    "basin": "Not Applicable",
+    "apiNumber": "30-015-45006",
+    "fieldName": "NA",
+    "block": "NA",
+    "afe": "NA",
+    "projectStartDate": "2019-01-15T00:00:00-06:00",
+    "projectCompletionDate": "2020-01-15T00:00:00-06:00",
+    "spudDate": "2019-01-15T00:00:00-06:00",
+    "completionDate": "2020-01-15T00:00:00-06:00",
+    "section": "O-20-23S-28E",
+    "survey": "NA",
+    "address1": "EBLOVING TOWNSITE 2021 WC #002H",
+    "city": "LOVING",
+    "county": "US",
+    "state": "NM",
+    "country": "US",
+    "latitude": "32.2862",
+    "longitude": "-104.1091",
+    "operatingUnitId": 342,
+    "operatorName": "KAISER FRANCIS",
+    "operatorId": 4746,
+    "businessUnit": "PERMIAN",
+    "businessLine": "Drilling Fluids",
+    "primaryWarehouseId": 416,
+    "primaryWarehouse": "NDF Monahans TX - 1060"
+  },
+  {
+    "priceLists": [
+      {
+        "priceListId": 4514816,
+        "name": "ARENA OCS-G 2914 #A005 ST02 BP00",
+        "type": "Project",
+        "discount": 0
+      },
+      {
+        "priceListId": 2108012,
+        "name": "9/1/2013 TXGC RETAIL PRICELIST",
+        "type": "Retail",
+        "discount": 30
+      }
+    ],
+    "keyMembers": [
+      {
+        "fullName": "Chandra, Himanshu",
+        "email": "hchandra@newpark.com",
+        "startDate": "2019-01-15T00:00:00-06:00",
+        "role": "Mud Engineer"
+      },
+      {
+        "fullName": "Winbush, Lesia Gail",
+        "email": "lwinbush@newpark.com",
+        "startDate": "2019-01-15T00:00:00-06:00",
+        "role": "Project Manager"
+      }
+    ],
+    "type": "Project",
+    "id": "36916-LA",
+    "changeType": "CHANGE",
+    "projectId": 3454043,
+    "projectNumber": "36916-LA",
+    "projectStatus": "Approved",
+    "wellType": "Horizontal",
+    "fluidSystem": "Water Base",
+    "basin": "Not Applicable",
+    "apiNumber": "NA",
+    "fieldName": "EUGENE ISLAND",
+    "block": "341",
+    "afe": "1814334120",
+    "projectStartDate": "2019-01-15T00:00:00-06:00",
+    "projectCompletionDate": "2020-01-15T00:00:00-06:00",
+    "spudDate": "2019-01-15T00:00:00-06:00",
+    "completionDate": "2020-01-15T00:00:00-06:00",
+    "section": "31",
+    "township": "153N",
+    "range": "93W",
+    "survey": "PSL",
+    "abstract": "COWDEN C C 1415",
+    "address1": "EBOCS-G 02914 A020 ST00 BP00",
+    "county": "US",
+    "state": "OF",
+    "country": "US",
+    "latitude": "0.0000",
+    "longitude": "0.0000",
+    "operatingUnitId": 342,
+    "operatorName": "ARENA OFFSHORE LP",
+    "operatorId": 515336,
+    "businessLine": "Drilling Fluids",
+    "primaryWarehouseId": 419,
+    "primaryWarehouse": "NDF Fourchon LA - 1344"
+  }
+]
