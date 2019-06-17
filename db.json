@@ -21,18 +21,6 @@
         "email": "hchandra@newpark.com",
         "startDate": "2019-04-01T00:00:00-05:00",
         "role": "Mud Engineer"
-      },
-      {
-        "fullName": "Deng, Mei",
-        "email": "MDeng@newpark.com",
-        "startDate": "2019-04-01T00:00:00-05:00",
-        "role": "Project Administrator"
-      },
-      {
-        "fullName": "Stearns, Michael Robert",
-        "email": "mstearns@newpark.com",
-        "startDate": "2019-04-01T00:00:00-05:00",
-        "role": "Project Manager"
       }
     ],
     "type": "Project",
@@ -93,12 +81,6 @@
         "email": "hchandra@newpark.com",
         "startDate": "2019-04-24T00:00:00-05:00",
         "role": "Mud Engineer"
-      },
-      {
-        "fullName": "Stearns, Michael Robert",
-        "email": "mstearns@newpark.com",
-        "startDate": "2019-04-24T00:00:00-05:00",
-        "role": "Project Manager"
       }
     ],
     "type": "Project",
@@ -158,18 +140,6 @@
         "email": "hchandra@newpark.com",
         "startDate": "2019-01-15T00:00:00-06:00",
         "role": "Mud Engineer"
-      },
-      {
-        "fullName": "Deng, Mei",
-        "email": "MDeng@newpark.com",
-        "startDate": "2019-01-15T00:00:00-06:00",
-        "role": "Project Administrator"
-      },
-      {
-        "fullName": "Winbush, Lesia Gail",
-        "email": "lwinbush@newpark.com",
-        "startDate": "2019-01-15T00:00:00-06:00",
-        "role": "Project Manager"
       }
     ],
     "type": "Project",
@@ -228,12 +198,6 @@
         "email": "hchandra@newpark.com",
         "startDate": "2019-01-15T00:00:00-06:00",
         "role": "Mud Engineer"
-      },
-      {
-        "fullName": "Winbush, Lesia Gail",
-        "email": "lwinbush@newpark.com",
-        "startDate": "2019-01-15T00:00:00-06:00",
-        "role": "Project Manager"
       }
     ],
     "type": "Project",
